@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:578C6DC1
+NODE:I LEVEL:0 LINE:27 "D:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:30 "D:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:33 "D:\cvavr\inc\stdio.h"
+NODE:V LEVEL:0 LINE:37 "i -> R5"
+NODE:V LEVEL:0 LINE:38 "j -> R6,R7"
+NODE:F LEVEL:0 LINE:40 "main(void)"
+NODE:F LEVEL:0 LINE:119 "usart_send_string(unsigned char * str)"
