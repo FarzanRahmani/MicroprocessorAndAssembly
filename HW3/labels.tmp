@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>E:\uni\7th term\microprocessor lab\HWs\HW3</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>12</LINE></MAIN>
+  <OC1Aaddr_ROUTINE><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>123</LINE></OC1Aaddr_ROUTINE>
+  <BEGIN><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>33</LINE></BEGIN>
+  <BEGIN1><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>48</LINE></BEGIN1>
+  <SET_TIMER><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>60</LINE></SET_TIMER>
+  <Y1><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>78</LINE></Y1>
+  <CNVRT><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>161</LINE></CNVRT>
+  <DELAY><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>148</LINE></DELAY>
+  <SET_VALUE><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>117</LINE></SET_VALUE>
+  <Y2><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>145</LINE></Y2>
+  <L1><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>149</LINE></L1>
+  <L2><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>150</LINE></L2>
+  <L3><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>151</LINE></L3>
+  <C1><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>167</LINE></C1>
+  <C2><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>172</LINE></C2>
+  <C3><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>177</LINE></C3>
+  <C4><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>182</LINE></C4>
+  <C5><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>187</LINE></C5>
+  <C6><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>192</LINE></C6>
+  <C7><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>197</LINE></C7>
+  <C8><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>202</LINE></C8>
+  <C9><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>207</LINE></C9>
+  <C10><FILE>E:\uni\7th term\microprocessor lab\HWs\HW3\HW3.asm</FILE><LINE>211</LINE></C10>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>E:\uni\7th term\microprocessor lab\HWs\HW1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <L1><FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.asm</FILE><LINE>14</LINE></L1>
+  <START><FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.asm</FILE><LINE>16</LINE></START>
+  <DELAY><FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.asm</FILE><LINE>33</LINE></DELAY>
+  <L2><FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.asm</FILE><LINE>23</LINE></L2>
+  <REVERSE><FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.asm</FILE><LINE>25</LINE></REVERSE>
+  <L3><FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.asm</FILE><LINE>35</LINE></L3>
+  <L4><FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.asm</FILE><LINE>36</LINE></L4>
+  <L5><FILE>E:\uni\7th term\microprocessor lab\HWs\HW1\HW1.asm</FILE><LINE>37</LINE></L5>
+ </LABELS>
+</ASSEMBLER_INFO>
