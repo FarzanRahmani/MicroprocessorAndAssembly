@@ -1,0 +1,2 @@
+@ECHO OFF
+"D:\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "E:\uni\7th term\microprocessor lab\HWs\test\labels.tmp" -fI -W+ie -o "E:\uni\7th term\microprocessor lab\HWs\test\first_test.hex" -d "E:\uni\7th term\microprocessor lab\HWs\test\first_test.obj" -e "E:\uni\7th term\microprocessor lab\HWs\test\first_test.eep" -m "E:\uni\7th term\microprocessor lab\HWs\test\first_test.map" "E:\uni\7th term\microprocessor lab\HWs\test\first_test.asm"
